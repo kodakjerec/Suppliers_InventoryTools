@@ -1,0 +1,7 @@
+E:\Projects\New_WSC延伸\廠商盤點工具\BefInventory_DelOutTempArea\盤點前暫存區除帳用\bin\Debug\BefInventory_DelOutTempArea.exe
+E:\Projects\New_WSC延伸\廠商盤點工具\BefInventory_DelOutTempArea\盤點前暫存區除帳用\bin\Debug\BefInventory_DelOutTempArea.pdb
+E:\Projects\New_WSC延伸\廠商盤點工具\BefInventory_DelOutTempArea\盤點前暫存區除帳用\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\New_WSC延伸\廠商盤點工具\BefInventory_DelOutTempArea\盤點前暫存區除帳用\obj\Debug\BefInventory_DelOutTempArea.Properties.Resources.resources
+E:\Projects\New_WSC延伸\廠商盤點工具\BefInventory_DelOutTempArea\盤點前暫存區除帳用\obj\Debug\盤點前暫存區除帳用.csproj.GenerateResource.Cache
+E:\Projects\New_WSC延伸\廠商盤點工具\BefInventory_DelOutTempArea\盤點前暫存區除帳用\obj\Debug\BefInventory_DelOutTempArea.exe
+E:\Projects\New_WSC延伸\廠商盤點工具\BefInventory_DelOutTempArea\盤點前暫存區除帳用\obj\Debug\BefInventory_DelOutTempArea.pdb
